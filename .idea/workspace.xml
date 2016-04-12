@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cad4e69e-a796-4f36-a2d0-97a35b281740" name="Default" comment="" />
+    <list default="true" id="cad4e69e-a796-4f36-a2d0-97a35b281740" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/matrixChainOrder_DP.py" afterPath="$PROJECT_DIR$/matrixChainOrder_DP.py" />
+    </list>
     <ignored path="Dynamic_Programming.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -41,8 +43,8 @@
       <file leaf-file-name="matrixChainOrder_DP.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/matrixChainOrder_DP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35602096">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.4450262">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -135,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../number_theoretic_functions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../insta_sebastian" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager" selected="Python.biomial_DP">
@@ -589,8 +591,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/matrixChainOrder_DP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35602096">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.4450262">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
